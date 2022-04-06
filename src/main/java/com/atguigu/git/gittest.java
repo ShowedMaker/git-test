@@ -14,6 +14,7 @@ public class gittest {
         System.out.println("hello hot fix git4!");
         System.out.println("hello master test");
         System.out.println("hello hot fix test");
+        System.out.println("hello push test");
 
 
     }
